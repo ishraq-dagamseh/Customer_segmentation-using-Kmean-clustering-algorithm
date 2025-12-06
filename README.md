@@ -1,4 +1,7 @@
 # Customer_segmentation-using-Kmean-clustering-algorithm
+
+                                <img width="250" height="202" alt="image" src="https://github.com/user-attachments/assets/3cc98c73-258f-4a9e-8fed-050c602c69e1" />
+
 In this project we applied one of the clustering algorithms, that called k-mean. to grouping customers based on two features: 'Quantity'and 'UnitPrice' features.
 we used dataset from kaggle: (online Retail from Kaggle: https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset?resource=download)
 
