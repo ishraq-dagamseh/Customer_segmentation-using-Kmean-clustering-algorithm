@@ -2,7 +2,7 @@
 In this project we applied one of the clustering algorithms, that called k-mean. to grouping customers based on two features: 'Quantity'and 'UnitPrice' features.
 we used dataset from kaggle: (online Retail from Kaggle: https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset?resource=download)
 
-after reading data we made some exploring on the features, like:( relationship between Invoice year and the quantity) as we see in the next image:
+After dropping null raws, we made reading for  data, then we made some exploring on the features, like:( relationship between Invoice year and the quantity) as we see in the next image:
 <img width="632" height="436" alt="image" src="https://github.com/user-attachments/assets/42f56117-0696-4b62-8575-a641da4205b5" />
 We noted that the largest quantity was in 2011
 In United Kingdom
